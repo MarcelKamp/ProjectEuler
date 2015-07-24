@@ -19,3 +19,6 @@ C:\Users\marcelk\OneDrive\Code\ProjectEuler\ProjectEuler\bin\Debug\Microsoft.Pra
 C:\Users\marcelk\OneDrive\Code\ProjectEuler\ProjectEuler\bin\Debug\Microsoft.Practices.Unity.xml
 C:\Users\marcelk\OneDrive\Code\ProjectEuler\ProjectEuler\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 C:\Users\marcelk\OneDrive\Code\ProjectEuler\ProjectEuler\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\GitRoot\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+D:\GitRoot\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+D:\GitRoot\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
