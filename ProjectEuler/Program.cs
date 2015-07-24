@@ -10,7 +10,7 @@ namespace ProjectEuler
     class Program
     {
         /// <summary>
-        /// mawak / Shield@42
+        /// 
         /// </summary>
         static void Main(string[] args)
         {
